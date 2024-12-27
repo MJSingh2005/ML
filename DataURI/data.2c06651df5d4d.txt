@@ -1,0 +1,1 @@
+chrome-extension://iojpcjjdfhlcbgjnpngcmaojmlokmeii/content/element-picker.js
